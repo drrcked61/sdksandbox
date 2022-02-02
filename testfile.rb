@@ -1,5 +1,5 @@
 {
-  title: 'Docebo test',
+  title: 'Docebo testing',
   
   connection: {
     fields: [
