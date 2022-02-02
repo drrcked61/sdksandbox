@@ -1,5 +1,5 @@
 {
-  title: 'Workato CICD for Github',
+  title: 'Workato CICD for Github testing',
 
   secure_tunnel: true,
 
